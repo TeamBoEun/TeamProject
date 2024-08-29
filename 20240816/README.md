@@ -12,17 +12,17 @@
 ### CasaOS와 서버구축 / 터널링
 
 
-- CasaOS: 개인 클라우드 운영체제<br>
-  <img src="https://github.com/user-attachments/assets/dfb89d38-6c54-49c0-8354-4f71a83e0bd9" width="700">
+- CasaOS: 개인 클라우드 운영체제
+![](./img/KakaoTalk_20240829_140216355_07.jpg)
   
-- CasaOs 인터페이스와 기능 탐색<br>
-  <img src="https://github.com/user-attachments/assets/e91cbfa4-2394-4a23-bbf5-42cff0c469e8" width="700">
+- CasaOs 인터페이스와 기능 탐색
+![](./img/KakaoTalk_20240829_140216355_16.jpg)
   
-- 도메인 설정, 서버에 업로드 후 정상 작동되는지 확인<br>
-   <img src="https://github.com/user-attachments/assets/a1afa4be-0e86-4807-9d2b-f04a35adc37c" width="350">
+- 도메인 설정, 서버에 업로드 후 정상 작동되는지 확인
+![](./img/KakaoTalk_20240829_140239444_13.jpg)
 
-- 터널링을 통해 원격 서버 접속 및 관리<br>
-  <img src="https://github.com/user-attachments/assets/7dbc2a0d-ca8f-4c01-a8be-8211d63bbbe6" width="700">
+- 터널링을 통해 원격 서버 접속 및 관리
+![](./img/362569943-7dbc2a0d-ca8f-4c01-a8be-8211d63bbbe6.jpg)
 
-- Cloudpanel을 통해 웹사이트 관리 환경 구축 및 최적화<br>
-  <img src="https://github.com/user-attachments/assets/1156521d-0159-471d-960c-7ab82e881f39" width="700"><br>
+- Cloudpanel을 통해 웹사이트 관리 환경 구축 및 최적화
+![](./img/KakaoTalk_20240829_140239444_18.jpg)
