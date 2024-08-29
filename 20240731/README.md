@@ -61,6 +61,8 @@
 
 #### 랜선 조립
 - 순서 확인 후 랜선 직접 만들어보기
-  (사진)
+  <img src="https://github.com/user-attachments/assets/3e80fe64-fd88-4a0b-a90f-742d005c22fa" width="700">
+
 - 만든 랜선으로 인터넷 되는지 해보기
-  (사진)
+  <img src="https://github.com/user-attachments/assets/82333233-11c6-4f84-a63a-f7b4822e9436" width="700">
+
