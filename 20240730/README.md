@@ -31,7 +31,7 @@
 #### cd-rom 분해
 
 
-![KakaoTalk_20240829_140019139_09](https://github.com/user-attachments/assets/bbfa2bf6-01fd-469e-b57d-98632e0361d0)
+<img src="./img/KakaoTalk_20240829_140019139_09" alt="본체뚜껑을 뜯은 상태" width="400">
 
 
 #### 하드디스크 분해
