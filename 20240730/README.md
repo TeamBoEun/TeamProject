@@ -62,4 +62,4 @@
 
 
 <img src="./img/KakaoTalk_20240829_150524802_05.jpg" alt="라떼판다 조립" width="400">
-<img src="./img/KakaoTalk_20240829_150524802_06.jpg" alt="라떼판다 조립" width="400vw"> <img src="./img/KakaoTalk_20240829_150524802_07.jpg" alt="라떼판다 조립" width="400vw">
+<img src="./img/KakaoTalk_20240829_150524802_06.jpg" alt="라떼판다 조립" width="300vw"> <img src="./img/KakaoTalk_20240829_150524802_07.jpg" alt="라떼판다 조립" width="300vw">
