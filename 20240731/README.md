@@ -19,7 +19,13 @@
 
 
 #### 윈도우를 재 설치중인 사진
-(윈도우 재설치 사진 넣기)
+<img src="./img/KakaoTalk_20240829_140044819_06.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140044819_08.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140044819_14.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140044819_17.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140120256_14.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140120256_16.jpg" width="700">
+<img src="./img/KakaoTalk_20240829_140120256_22.jpg" width="700">
 
 -------
 
