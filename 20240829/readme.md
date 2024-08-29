@@ -22,3 +22,4 @@
 
 
 ### 컴퓨터 고치기
+<img src="https://github.com/user-attachments/assets/973697fc-dddf-4941-966b-c7a3f0042861" width="700">
