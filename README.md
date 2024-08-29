@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=0:FF66B2,100:8A2BE2=&fontColor=d6ace6&animation=twinkling&height=300&section=header&text=team%20project&fontSize=90&stroke=ffffff)
-🧑‍🤝‍🧑구성원🧑‍🤝‍🧑
+#🧑‍🤝‍🧑구성원🧑‍🤝‍🧑
+----
 <ul>
   <li> 2018843103 정현준 </li>
   <li> 2019675028 서보형 </li>
