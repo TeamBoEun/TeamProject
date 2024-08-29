@@ -34,15 +34,14 @@
 
 
 #### 라떼판다 보드와 입/출력 장치를 연결하여 미니PC 조립
-(라떼판다 사진 ㅇㅇ)
-
+<img src="https://github.com/user-attachments/assets/25b2a3be-60ae-48c0-8373-ca6b7a13a574" width="700">
 
 #### 윈도우 10 기본내장, 내장된 와이파이 안테나로 무선 인터넷 연결
-(라떼판다 연결 사진)
+<img src="https://github.com/user-attachments/assets/32ac0f39-bd1f-49fb-8151-dd7955d093c5" width="700">
 
 
 #### 부팅 후, 인터넷 접속 확인 / 웹 게임 실행
-(라떼판다 웹 게임 실행 사진)
+<img src="https://github.com/user-attachments/assets/b5748f13-e7e7-4a3e-89eb-1d3266705eed" width="700">
 
 
 ---------
