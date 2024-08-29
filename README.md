@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=0:FF66B2,100:8A2BE2=&fontColor=d6ace6&animation=twinkling&height=300&section=header&text=team%20project&fontSize=90&stroke=ffffff)
 
+# 👻프로젝트 소개👻
+----
+## 컵퓨터 하드웨어 및 네트워크
+
 # 💻진행 내용💻
 ----
 ## 1일차 🗓️240730
@@ -13,7 +17,7 @@
 
 # 😎구성원😎
 ----
-* 2018843103 정현준 @guswnsj
+* 2018843103 정현준 @guswnsj (깃허브 연결할거임!!)
 * 2019675028 서보형 @
 * 2020675058 전유빈
 * 2021663023 김채은
