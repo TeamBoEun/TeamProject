@@ -25,7 +25,7 @@
 #### 본체뚜껑을 뜯은 상태
 
 
-<img src="./img/KakaoTalk_20240829_140019139_07.jpg" alt="본체뚜껑을 뜯은 상태" width="400">
+<img src="img/KakaoTalk_20240829_140019139_07.jpg" alt="본체뚜껑을 뜯은 상태" width="400">
 
 
 #### cd-rom 분해
