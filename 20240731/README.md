@@ -60,9 +60,9 @@
   <img src="./img/KakaoTalk_20240829_140120256_08.jpg" width="700">
 
 #### 랜선 조립
-- 순서 확인 후 랜선 직접 만들어보기
-  <img src="https://github.com/user-attachments/assets/3e80fe64-fd88-4a0b-a90f-742d005c22fa" width="700">
+- 순서 확인 후 랜선 직접 만들어보기<br>
+  <img src="https://github.com/user-attachments/assets/3e80fe64-fd88-4a0b-a90f-742d005c22fa" width="500"><br>
 
-- 만든 랜선으로 인터넷 되는지 해보기
-  <img src="https://github.com/user-attachments/assets/82333233-11c6-4f84-a63a-f7b4822e9436" width="700">
+- 만든 랜선으로 인터넷 되는지 해보기<br>
+  <img src="https://github.com/user-attachments/assets/82333233-11c6-4f84-a63a-f7b4822e9436" width="500">
 
