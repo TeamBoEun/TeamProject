@@ -25,31 +25,31 @@
 #### 본체뚜껑을 뜯은 상태
 
 
-<img src="img/KakaoTalk_20240829_140245065_04.jpg" alt="본체뚜껑을 뜯은 상태" width="400">
+<img src="img/KakaoTalk_20240829_140245065_07.jpg" alt="본체뚜껑을 뜯은 상태" width="400">
 
 
 #### cd-rom 분해
 
 
-<img src="./img/KakaoTalk_20240829_140019139_09.jpg" alt="본체뚜껑을 뜯은 상태" width="400">
+<img src="./img/KakaoTalk_20240829_140019139_09.jpg" alt="cd-rom 분해" width="400">
 
 
 #### 하드디스크 분해
 
 
-![KakaoTalk_20240829_140019139_10](https://github.com/user-attachments/assets/7b07f50f-14b4-44a0-aa5d-22ff78e83d31)
+<img src="./img/KakaoTalk_20240829_140019139_10.jpg" alt="하드디스크 분해" width="400">
 
 
 #### 메인보드 분해
 
 
-![KakaoTalk_20240829_140019139_11](https://github.com/user-attachments/assets/da7caea8-65fd-4929-a6b3-d15205f506af)
+<img src="./img/KakaoTalk_20240829_140019139_11.jpg" alt="하드디스크 분해" width="400">
 
 
 #### cpu 분해
 
 
-![KakaoTalk_20240829_140019139_16](https://github.com/user-attachments/assets/8ffa04bc-a654-48ed-9cf0-2faacfc1d823)
+<img src="./img/KakaoTalk_20240829_140019139_16.jpg" alt="하드디스크 분해" width="400">
 
 
 ----------
@@ -61,4 +61,4 @@
 #### 라떼판다 조립
 
 
-![KakaoTalk_20240829_140245065_11](https://github.com/user-attachments/assets/d77fa049-ed0a-4f9d-93fd-e9d83c645469)
+<img src="./img/KakaoTalk_20240829_140245065_11.jpg" alt="하드디스크 분해" width="400">
