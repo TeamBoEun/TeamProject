@@ -37,19 +37,19 @@
 #### 하드디스크 분해
 
 
-<img src="./img/KakaoTalk_20240829_140019139_10.jpg" alt="하드디스크 분해" width="400">
+<img src="./img/KakaoTalk_20240829_150524802_02.jpg" alt="하드디스크 분해" width="400">
 
 
 #### 메인보드 분해
 
 
-<img src="./img/KakaoTalk_20240829_140019139_11.jpg" alt="하드디스크 분해" width="400">
+<img src="./img/KakaoTalk_20240829_150524802_03.jpg" alt="메인보드 분해" width="400">
 
 
 #### cpu 분해
 
 
-<img src="./img/KakaoTalk_20240829_140019139_16.jpg" alt="하드디스크 분해" width="400">
+<img src="./img/KakaoTalk_20240829_150524802_04.jpg" alt="cpu 분해" width="400">
 
 
 ----------
@@ -61,4 +61,4 @@
 #### 라떼판다 조립
 
 
-<img src="./img/KakaoTalk_20240829_140245065_11.jpg" alt="하드디스크 분해" width="400">
+<img src="./img/KakaoTalk_20240829_150524802_05.jpg" alt="라떼판다 조립" width="400">
