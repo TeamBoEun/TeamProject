@@ -19,13 +19,14 @@
 
 
 #### 윈도우를 재 설치중인 사진
-<img src="./img/KakaoTalk_20240829_140044819_06.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140044819_08.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140044819_14.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140044819_17.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140120256_14.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140120256_16.jpg" width="700">
-<img src="./img/KakaoTalk_20240829_140120256_22.jpg" width="700">
+![](./img/KakaoTalk_20240829_140044819_06.jpg)
+![](./img/KakaoTalk_20240829_140044819_08.jpg)
+![](./img/KakaoTalk_20240829_140044819_14.jpg)
+![](./img/KakaoTalk_20240829_140044819_17.jpg)
+![](./img/KakaoTalk_20240829_140120256_14.jpg)
+![](./img/KakaoTalk_20240829_140120256_16.jpg)
+![](./img/KakaoTalk_20240829_140120256_22.jpg)
+
 
 -------
 
@@ -52,11 +53,11 @@
 
 #### 이론 학습
 - UTP 구조 학습<br>
-  <img src="./img/KakaoTalk_20240829_140120256_10.jpg" width="700">
+  ![](./img/KakaoTalk_20240829_140120256_10.jpg)
 - 케이블 구조 확인하여 랜선 조립 전 이론 학습<br>
-  <img src="./img/KakaoTalk_20240829_140120256_11.jpg" width="700">
+  ![](./img/KakaoTalk_20240829_140120256_11.jpg)
 - 간단한 통신과 네트워크 이론 학습<br>
-  <img src="./img/KakaoTalk_20240829_140120256_08.jpg" width="700">
+  ![](./img/KakaoTalk_20240829_140120256_08.jpg)
 
 #### 랜선 조립
 - 순서 확인 후 랜선 직접 만들어보기<br>
