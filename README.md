@@ -18,8 +18,7 @@
 
 # 😎구성원😎
 ----
-* 2018843103 정현준 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><a href="https://github.com/guswnsj"><img src="이미지_주소.jpg" alt="정현준 깃허브" /></a>
+* 2018843103 정현준 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><a href="https://github.com/guswnsj"><img src="이미지_주소.jpg" alt="정현준 깃허브" /></a>
 * 2019675028 서보형 @
 * 2020675058 전유빈
 * 2021663023 김채은
