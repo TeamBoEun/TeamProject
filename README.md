@@ -20,7 +20,7 @@
 ----
 * 2018843103 정현준 <a href="https://github.com/guswnsj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="정현준 깃허브" /></a>
 * 2019675028 서보형 <a href="https://github.com/seoftbh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="서보형 깃허브" /></a>
-* 2020675058 전유빈 <a href="https://github.com/guswnsj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="전유빈 깃허브" /></a>
+* 2020675058 전유빈 <a href="https://github.com/YuBinJeon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="전유빈 깃허브" /></a>
 * 2021663023 김채은 <a href="https://github.com/Kimchaeeuny"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="김채은 깃허브" /></a>
 * 2021563065 정소희 <a href="https://github.com/Sossoh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="정소희 깃허브" /></a>
 * 2022964014 문재혁 <a href="https://github.com/mooner1213"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the badge&logo=GitHub&logoColor=white" alt="문재혁 깃허브" /></a>
